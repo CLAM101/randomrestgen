@@ -1,0 +1,25 @@
+{
+  "name": "randomrestgenerator",
+  "version": "1.0.0",
+  "description": "CLAM's rest generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLAM101/randomrestgen.git"
+  },
+  "keywords": [
+    "CLAM"
+  ],
+  "author": "CLAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CLAM101/randomrestgen/issues"
+  },
+  "homepage": "https://github.com/CLAM101/randomrestgen#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.2.0"
+  }
+}
