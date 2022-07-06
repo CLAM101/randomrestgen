@@ -1,6 +1,6 @@
 # randomrestgen
 
-## This in an NPM pakcage I created to see my food delivery app Database for the purpose of testing filters, search bars and various other functionality built into my app. 
+## This in an NPM pakcage I created to seed my food delivery app Database for the purpose of testing filters, search bars and various other functionality built into my app. 
 
 
 # Install
